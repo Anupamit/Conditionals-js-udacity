@@ -13,7 +13,7 @@ var number = 2;
 if (number % 2 === 0/* your conditional goes here */) {
     console.log("even");
 } else {
-    console.log("odd");
+    console.log("odd number hai bhai");
 }
 
 
