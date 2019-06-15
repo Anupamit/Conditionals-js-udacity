@@ -26,4 +26,3 @@ if ((flavor === "vanilla" || flavor === "chocolate") && (vessel === "cone" || ve
 }
 
 
-console.log("testing")
