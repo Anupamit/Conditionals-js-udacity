@@ -25,3 +25,5 @@ if ((flavor === "vanilla" || flavor === "chocolate") && (vessel === "cone" || ve
     console.log("I\'d like two scoops of "+ flavor +" ice cream in a "+ vessel +" with "+ toppings +".");
 }
 
+
+console.log("testing")
